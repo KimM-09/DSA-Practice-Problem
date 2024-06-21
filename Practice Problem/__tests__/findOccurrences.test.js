@@ -6,7 +6,7 @@ const data = require("../src/data");
 describe("Search Lines", () => {
   let idx = {};
   beforeAll(() => {
-    idx = index(data);
+    idx = index(data); 
   });
   
   it("should return empty list when empty list is given", () => {

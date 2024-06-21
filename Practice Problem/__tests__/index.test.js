@@ -20,6 +20,7 @@ describe("Index", () => {
   });
 
   it("should be case-insensitive", () => {
+    //console.log(result)
     expect(result["he"].length).toEqual(18);
   });
-});
+}); 

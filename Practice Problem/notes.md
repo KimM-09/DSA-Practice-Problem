@@ -95,7 +95,7 @@ For example, given the following index:
     object [ 6, 8 ],
     history: [ 8 ],
 }
-```
+``` 
 and the words "human", "object" and "history" and text given in the src/data.js file, construct the resulting array as follows:
 
 The word "human" occurs on line 1, the word "object" occurs on line 6, and both words "object" and "history" appear on line 8 so return the lines 1, 6, and 8. The result will be:

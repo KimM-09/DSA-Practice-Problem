@@ -69,7 +69,7 @@ splits the given text into individual words by spaces, full stops, commas, singl
 
 ```
 [
-  'For',  'depriving',
+  'For',  'depriving', 
   'us',   'in',       
   'many', 'cases',    
   '',     'of',       
